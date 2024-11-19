@@ -9,3 +9,7 @@ Should have considered:
 
 Initial Instagram account: keepwix
 Later they were unavailable for few weeks then changed to some other names and currently its `new-name`
+
+## Mobile numbers:
+1. +91
+2. +44
