@@ -4,3 +4,4 @@ This repo contains list of people or entities scammed me. I will post things tha
 1. [Sharath Kanhirapoil](01/info.md)
 2. [That crocs Instagram account](02/info.md)
 3. [RTO agent; Manjunath; Yeshwanthpur RTO parking](03/info.md)
+4. [That Pre-owned Polo; Some mohammed?; Nagavara](04/info.md)
