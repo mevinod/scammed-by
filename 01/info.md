@@ -7,4 +7,5 @@ One fine Monday? morning he called and told - he's in a car showroom to get deli
 
 # Indication I missed
 - That was a bit less amount. No showroom will hold off for that amount.
+- He got amount in two transaction/twice. Should have stopped in the 2nd time atleast.
 - 
