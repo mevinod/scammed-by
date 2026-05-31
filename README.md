@@ -5,3 +5,4 @@ This repo contains list of people or entities scammed me. I will post things tha
 2. [That crocs Instagram account](02/info.md)
 3. [RTO agent; Manjunath; Yeshwanthpur RTO parking](03/info.md)
 4. [That Pre-owned Polo; Some mohammed?; Nagavara](04/info.md)
+5. [SA Fittness hebbal kempapura](05/info.md)
